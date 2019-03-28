@@ -1,0 +1,9 @@
+.files {
+  height: xx;
+  width: 240px;
+  border: 1px solid black;
+}
+
+.error {
+  color: red;
+}

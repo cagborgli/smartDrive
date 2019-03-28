@@ -1,0 +1,30 @@
+.header {
+  display: flex;
+  justify-content: center;
+}
+
+.logo {
+  width: 100px;
+  height: 31px;
+  margin: 20px;
+  padding: 10px;
+  float: left;
+  font-size: 20px;
+  font-weight: bolder;
+}
+
+.header {
+  background: lightgray;
+}
+
+.search {
+
+  padding-top: 20px;
+  width: 300px;
+  margin: 0 auto;
+}
+
+.btn {
+  display: block;
+  margin: 10px;
+}
