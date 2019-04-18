@@ -1,6 +1,6 @@
-# final-project
+# The Application
 
-The Final Project is a full-stack file backup and management utility.  It allows users to save their files to 'cloud' storage and manage them via a web application interface in the browser.
+This is a full-stack file backup and management utility which allows users to save their files to 'cloud' storage and manage them via a web application interface in the browser.
 
 ## The Server
 - Exposes a [RESTful API](./api_docs.md) via the [ASP.NET Core Web API](https://docs.microsoft.com/en-us/aspnet/core/web-api/?view=aspnetcore-2.1).
